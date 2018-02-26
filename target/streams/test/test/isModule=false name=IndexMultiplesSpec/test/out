@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mIndexMultiplesSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mIndexMultiples[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return List(4,9) when given List(2,4,7,9,10)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return List(4,9,15) when given List(2,4,7,9,10,15)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must return List(3,6,12) when given List(2,3,6,12,15,21)[0m[0m
